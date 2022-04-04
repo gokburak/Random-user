@@ -1,0 +1,23 @@
+.card {
+  width: 30%;
+  text-align: center;
+  margin: 20px auto;
+  background: radial-gradient(#EBEBD8,#99CBE1);
+  box-shadow: 15px 15px 15px #0720ac ;
+  flex-direction: column;
+  
+}
+.card-img-top{
+  border-radius: 50%;
+  width: 20%;
+  flex-direction: column;
+
+}
+.card-body{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+
+}
+
